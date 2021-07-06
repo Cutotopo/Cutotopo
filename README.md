@@ -9,6 +9,8 @@ Welcome to my profile!
 #### Setup
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%20-light__green?style=social&logo=ubuntu)](https://ubuntu.com) [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%20-light__green?style=social&logo=kde)](https://kde.org/) [![Firefox](https://img.shields.io/badge/Firefox-%20-light__green?style=social&logo=firefox)](https://mozilla.org) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-light__green?style=social&logo=visualstudiocode)](https://code.visualstudio.com/) [![JetBrains PyCharm](https://img.shields.io/badge/JetBrains%20PyCharm-%20-light__green?style=social&logo=pycharm)](https://www.jetbrains.com/pycharm/) [![Apostrophe](https://img.shields.io/badge/Apostrophe-%20-light__green?style=social&logo=markdown)](https://flathub.org/apps/details/org.gnome.gitlab.somas.Apostrophe)
 
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutotopo&layout=compact&theme=dark)]()
+
 <!--
 **Cutotopo/Cutotopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
