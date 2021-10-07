@@ -9,9 +9,10 @@ Welcome to my profile!
 #### Setup
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%20-light__green?style=social&logo=ubuntu)](https://ubuntu.com) [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%20-light__green?style=social&logo=kde)](https://kde.org/) [![Firefox](https://img.shields.io/badge/Firefox-%20-light__green?style=social&logo=firefox)](https://mozilla.org) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20-light__green?style=social&logo=visualstudiocode)](https://code.visualstudio.com/) [![JetBrains PyCharm](https://img.shields.io/badge/JetBrains%20PyCharm-%20-light__green?style=social&logo=pycharm)](https://www.jetbrains.com/pycharm/) [![Apostrophe](https://img.shields.io/badge/Apostrophe-%20-light__green?style=social&logo=markdown)](https://flathub.org/apps/details/org.gnome.gitlab.somas.Apostrophe) [![Vim](https://img.shields.io/badge/Vim-%20-light__green?style=social&logo=vim)](https://www.vim.org/)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutotopo&layout=compact&theme=dark)](#)
+<!-- [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutotopo&layout=compact&theme=dark)](#) -->
 
-### I'm working on...
+#### I'm working on...
+[![VideoStampanti](https://img.shields.io/badge/VideoStampanti-click%20to%20view%20org-informational)](https://github.com/Stampanti)<br>
 [![I'm working on...](https://github-readme-stats.vercel.app/api/pin/?username=Stampanti&repo=vsml)](https://github.com/Stampanti/vsml)
 [![I'm working on...](https://github-readme-stats.vercel.app/api/pin/?username=Stampanti&repo=videostampantiwebserver)](https://github.com/Stampanti/videostampantiwebserver)
 
