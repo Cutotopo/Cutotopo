@@ -11,6 +11,10 @@ Welcome to my profile!
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cutotopo&layout=compact&theme=dark)](#)
 
+### I'm working on...
+[![I'm working on...](https://github-readme-stats.vercel.app/api/pin/?username=Stampanti&repo=vsml)](https://github.com/Stampanti/vsml)
+[![I'm working on...](https://github-readme-stats.vercel.app/api/pin/?username=Stampanti&repo=videostampantiwebserver)](https://github.com/Stampanti/videostampantiwebserver)
+
 <!--
 **Cutotopo/Cutotopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
