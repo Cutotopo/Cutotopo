@@ -19,6 +19,8 @@ Welcome to my profile!
 #### A widget that apparently everyone has on their readme
 [![Stats](https://github-readme-stats.vercel.app/api?username=cutotopo&count_private=true&hide=prs,issues&show_icons=true)](https://cuto.ga)
 
+#### wakatime
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cutotopo)](https://github.com/Cutotopo)
 <!--
 **Cutotopo/Cutotopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
