@@ -17,7 +17,7 @@ Welcome to my profile!
 [![I'm working on...](https://github-readme-stats.vercel.app/api/pin/?username=Stampanti&repo=videostampantiwebserver)](https://github.com/Stampanti/videostampantiwebserver)
 
 #### A widget that apparently everyone has on their readme
-[![Stats](https://github-readme-stats.vercel.app/api?username=cutotopo&count_private=true&hide=prs,issues)](https://cuto.ga)
+[![Stats](https://github-readme-stats.vercel.app/api?username=cutotopo&count_private=true&hide=prs,issues&show_icons=true)](https://cuto.ga)
 
 <!--
 **Cutotopo/Cutotopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
