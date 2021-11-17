@@ -14,7 +14,6 @@ Welcome to my profile!
 #### I'm working on...
 [![VideoStampanti](https://img.shields.io/badge/VideoStampanti-click%20to%20view%20org-informational)](https://github.com/Stampanti)<br>
 [![I'm working on...](https://github-readme-stats.vercel.app/api/pin/?username=Stampanti&repo=vsml)](https://github.com/Stampanti/vsml)
-[![I'm working on...](https://github-readme-stats.vercel.app/api/pin/?username=Stampanti&repo=videostampantiwebserver)](https://github.com/Stampanti/videostampantiwebserver)
 
 #### A widget that apparently everyone has on their readme
 [![Stats](https://github-readme-stats.vercel.app/api?username=cutotopo&count_private=true&hide=prs,issues&show_icons=true)](https://cuto.ga)
