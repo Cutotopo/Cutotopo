@@ -2,7 +2,7 @@
 Welcome to my profile!
 
 #### Socials
-[![Website](https://img.shields.io/badge/Website-online-success)](https://cuto.ga) [![Twitter](https://img.shields.io/badge/Twitter-%20-light__green?style=social&logo=twitter)](https://twitter.com/Cutotopo6)
+[![Website](https://img.shields.io/badge/Website-online-success)](https://cutotopo.live) [![Twitter](https://img.shields.io/badge/Twitter-%20-light__green?style=social&logo=twitter)](https://twitter.com/Cutotopo6)
 ![]()
 #### My projects
 [![Dig](https://img.shields.io/badge/computercraft--dig-click%20here-success)](https://github.com/Cutotopo/computercraft-dig) [![VSML](https://img.shields.io/badge/VSML-click%20here-informational)](https://github.com/Stampanti/vsml) [![VideoStampantiWS](https://img.shields.io/badge/VideoStampantiWS-click%20here-informational)](https://github.com/Stampanti/VideoStampantiWebServer) [![KillProc](https://img.shields.io/badge/KillProc-click%20here-success)](https://github.com/Cutotopo/killproc/blob/main/killproc) [![Poogle](https://img.shields.io/badge/Poogle-click%20here-success)](https://github.com/Cutotopo/poogle/blob/main/poogle.sh) [![InkPaint](https://img.shields.io/badge/InkPaint-v0.0.7.1-informational)](https://github.com/cutotopo/inkpaint) [![Appunti](https://img.shields.io/badge/Appunti-v1.0.0.5-informational)](https://github.com/cutotopo/appunti) [![WPFFileManager](https://img.shields.io/badge/WPFFileManager-deprecated-critical)](https://github.com/cutotopo/filemanager) [![InkPaintFS](https://img.shields.io/badge/InkPaintFS-deprecated-critical)](https://github.com/cutotopo/inkpaintfs)
