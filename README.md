@@ -1,14 +1,12 @@
 ### Cutotopo
 Welcome to my profile!
 
-#### Socials
-[![Website](https://img.shields.io/badge/Website-online-success)](https://cutotopo.live) [![Twitter](https://img.shields.io/badge/Twitter-%20-light__green?style=social&logo=twitter)](https://twitter.com/Cutotopo6)
-![]()
+[![Website](https://img.shields.io/badge/Website-online-success)](https://cutotopo.live)
+
+Socials:<br>[![Mastodon](https://img.shields.io/badge/Mastodon-%20-light__green?style=social&logo=mastodon)](https://mastodon.online/@Cutotopo6) [![Pixelfed](https://img.shields.io/badge/Pixelfed-%20-light__green?style=social&logo=pixelfed)](https://pixelfed.social/Cutotopo) [![Lemmy](https://img.shields.io/badge/Lemmy-%20-light__green?style=social&logo=lemmy)](https://lemmy.world/u/cutotopo) [![Other socials](https://img.shields.io/badge/Other%20socials-%20-light__green?style=social&logo=lemmy)](https://cutotopo.live/socials)
+
 #### My projects
 [![Dig](https://img.shields.io/badge/computercraft--dig-click%20here-success)](https://github.com/Cutotopo/computercraft-dig) [![VSML](https://img.shields.io/badge/VSML-click%20here-informational)](https://github.com/Stampanti/vsml) [![VideoStampantiWS](https://img.shields.io/badge/VideoStampantiWS-click%20here-informational)](https://github.com/Stampanti/VideoStampantiWebServer) [![KillProc](https://img.shields.io/badge/KillProc-click%20here-success)](https://github.com/Cutotopo/killproc/blob/main/killproc) [![Poogle](https://img.shields.io/badge/Poogle-click%20here-success)](https://github.com/Cutotopo/poogle/blob/main/poogle.sh) [![InkPaint](https://img.shields.io/badge/InkPaint-v0.0.7.1-informational)](https://github.com/cutotopo/inkpaint) [![Appunti](https://img.shields.io/badge/Appunti-v1.0.0.5-informational)](https://github.com/cutotopo/appunti) [![WPFFileManager](https://img.shields.io/badge/WPFFileManager-deprecated-critical)](https://github.com/cutotopo/filemanager) [![InkPaintFS](https://img.shields.io/badge/InkPaintFS-deprecated-critical)](https://github.com/cutotopo/inkpaintfs)
-
-#### A widget that apparently everyone has on their readme
-[![Stats](https://github-readme-stats.vercel.app/api?username=cutotopo&count_private=true&hide=prs,issues&show_icons=true)](https://cutotopo.live)
 
 <!--
 **Cutotopo/Cutotopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
