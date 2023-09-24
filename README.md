@@ -3,7 +3,7 @@ Welcome to my profile!
 
 [![Website](https://img.shields.io/badge/Website-online-success)](https://cutotopo.live)
 
-Socials:<br>[![Mastodon](https://img.shields.io/badge/Mastodon-%20-light__green?style=social&logo=mastodon)](https://mastodon.online/@Cutotopo6) [![Pixelfed](https://img.shields.io/badge/Pixelfed-%20-light__green?style=social&logo=pixelfed)](https://pixelfed.social/Cutotopo) [![Lemmy](https://img.shields.io/badge/Lemmy-%20-light__green?style=social&logo=lemmy)](https://lemmy.world/u/cutotopo) [![Other socials](https://img.shields.io/badge/Other%20socials-%20-light__green?style=social&logo=lemmy)](https://cutotopo.live/socials)
+Socials:<br>[![Mastodon](https://img.shields.io/badge/Mastodon-%20-light__green?style=social&logo=mastodon)](https://mastodon.online/@Cutotopo6) [![Pixelfed](https://img.shields.io/badge/Pixelfed-%20-light__green?style=social&logo=pixelfed)](https://pixelfed.social/Cutotopo) [![Lemmy](https://img.shields.io/badge/Lemmy-%20-light__green?style=social&logo=lemmy)](https://lemmy.world/u/cutotopo) [![Other socials](https://img.shields.io/badge/Other%20socials-%20-light__green?style=social)](https://cutotopo.live/socials)
 
 #### My projects
 A list of my projects is available at [my website](https://cutotopo.live/projects).
